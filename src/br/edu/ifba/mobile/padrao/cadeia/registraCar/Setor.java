@@ -15,6 +15,6 @@ public abstract class Setor {
 
 	}
 
-	public abstract String Agendar(TipoSetor duvida);
+	public abstract Informe Exibir(TipoServico servico);
 
 }

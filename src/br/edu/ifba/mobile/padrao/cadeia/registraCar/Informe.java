@@ -1,0 +1,41 @@
+package br.edu.ifba.mobile.padrao.cadeia.registraCar;
+
+public class Informe {
+
+	private String horarioAtendimento = "";
+	private String atendente = "";
+	private String setor = "";
+	
+	public Informe(String horarioAtendimento, String atendente, String setor) {
+		this.horarioAtendimento = horarioAtendimento;
+		this.atendente = atendente;
+		this.setor = setor;
+	}
+
+	public String getHorarioAtendimento() {
+		return horarioAtendimento;
+	}
+
+	public void setHorarioAtendimento(String horarioAtendimento) {
+		this.horarioAtendimento = horarioAtendimento;
+	}
+
+	public String getAtendente() {
+		return atendente;
+	}
+
+	public void setAtendente(String atendente) {
+		this.atendente = atendente;
+	}
+
+	public String getSetor() {
+		return setor;
+	}
+
+	public void setSetor(String setor) {
+		this.setor = setor;
+	}
+	
+	
+	
+}
