@@ -1,2 +1,2 @@
 # RegistraCar
-Aplicação WEBMÓVEL usando padrão cadeia de responsabilidade. Aplicação para regularização de um carro
+Repositório para a elaboração do padrão cadeia de responsabilidade para Aplicação WEBMÓVEL sobre regularização de um carro. 
