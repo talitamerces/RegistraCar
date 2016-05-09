@@ -35,6 +35,12 @@ public class Informe {
 	public void setSetor(String setor) {
 		this.setor = setor;
 	}
+
+	@Override
+	public String toString() {
+		return "Informe [horarioAtendimento=" + horarioAtendimento + ", atendente=" + atendente + ", setor=" + setor
+				+ "]";
+	}
 	
 	
 	
